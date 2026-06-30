@@ -69,7 +69,7 @@ const teamMembers: TeamMember[] = [
   },
   {
     name: "Mohammed Ismail",
-    role: "Technical Lead",
+    role: "Web Developer",
     tag: "Backend Developer",
     bio: "Backend Developer focused on building robust architectures, optimizing performance, and developing solutions that bridge innovation with execution.",
     image: ismailImg,
